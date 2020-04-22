@@ -828,6 +828,12 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation.jpg");
 }
+.adress {
+    border: 1px solid;
+    border-radius: 5px;
+    text-align: center;
+    padding: 157px 0px 157px 0px;
+}
 
 @media (max-width: 1024px) {
     .bloc {
